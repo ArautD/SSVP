@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Sistema_Pizzaria">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/SSVP-master/dist/Sistema_Pizzaria.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
